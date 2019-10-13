@@ -16,9 +16,7 @@ function App() {
 <img src={logo} alt="AirCnc"/>
 
 <div className="content">
-
   <Routes/>
-
     </div>
    </div>
 
